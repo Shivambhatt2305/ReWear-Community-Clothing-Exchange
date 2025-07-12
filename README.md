@@ -10,9 +10,6 @@
 
 
 
-<p align="center">
-  <img src="#" alt="ReWear Logo" width="100"/>
-</p>
 
 <h1 align="center">♻️ ReWear – Community Clothing Exchange</h1>
 
