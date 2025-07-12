@@ -9,9 +9,7 @@
 
 
 
-md
-Copy
-Edit
+
 <p align="center">
   <img src="https://i.ibb.co/wNJRcX5Q/Chat-GPT-Image-Jul-12-2025-10-18-07-AM.png" alt="ReWear Logo" width="100"/>
 </p>
