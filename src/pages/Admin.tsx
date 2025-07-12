@@ -15,7 +15,6 @@ import { Navigate } from 'react-router-dom';
 import type { Database } from '@/integrations/supabase/types';
 
 type ItemStatus = Database['public']['Enums']['item_status'];
-
 const Admin = () => {
   const { user, isAdmin } = useAuth();
   const { toast } = useToast();
